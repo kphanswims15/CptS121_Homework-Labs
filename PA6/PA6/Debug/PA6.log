@@ -1,0 +1,13 @@
+﻿Build started 10/26/2015 8:28:56 PM.
+     1>Project "C:\Users\Kimberlee Phan\Documents\Visual Studio 2012\Projects\PA6\PA6\PA6.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt game_functions.c main.c
+         main.c
+         game_functions.c
+     1>c:\users\kimberlee phan\documents\visual studio 2012\projects\pa6\pa6\game_functions.c(30): fatal error C1075: end of file found before the left brace '{' at 'c:\users\kimberlee phan\documents\visual studio 2012\projects\pa6\pa6\game_functions.c(14)' was matched
+         Generating Code...
+     1>Done Building Project "C:\Users\Kimberlee Phan\Documents\Visual Studio 2012\Projects\PA6\PA6\PA6.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.16

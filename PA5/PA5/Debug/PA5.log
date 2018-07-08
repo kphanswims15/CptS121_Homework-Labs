@@ -1,0 +1,15 @@
+﻿Build started 10/23/2015 10:28:46 AM.
+     1>Project "C:\Users\Kimberlee Phan\Documents\Visual Studio 2012\Projects\PA5\PA5\PA5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt game_functions.c
+         game_functions.c
+     1>c:\users\kimberlee phan\documents\visual studio 2012\projects\pa5\pa5\game_functions.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kimberlee phan\documents\visual studio 2012\projects\pa5\pa5\game_functions.c(138): warning C4013: 'display_dice' undefined; assuming extern returning int
+     1>c:\users\kimberlee phan\documents\visual studio 2012\projects\pa5\pa5\game_functions.c(184): error C2371: 'display_dice' : redefinition; different basic types
+     1>c:\users\kimberlee phan\documents\visual studio 2012\projects\pa5\pa5\game_functions.c(259): warning C4305: 'initializing' : truncation from 'int' to 'char'
+     1>Done Building Project "C:\Users\Kimberlee Phan\Documents\Visual Studio 2012\Projects\PA5\PA5\PA5.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10
